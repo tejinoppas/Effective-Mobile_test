@@ -55,7 +55,9 @@ Accept: application/json
 Овет
 
 {
+
   "stores": [
+  
     {
       "id": 1,
       "name": "METRO",
