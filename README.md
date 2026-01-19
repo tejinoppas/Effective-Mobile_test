@@ -86,3 +86,5 @@ Accept: application/json
   
 }
 
+Задагние 3
+<img width="1280" height="1020" alt="image" src="https://github.com/user-attachments/assets/8520db3b-fd52-4b2e-806a-ff9b21aca6a3" />
