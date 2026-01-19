@@ -82,3 +82,5 @@ Accept: application/json
       "delivery_info": "Ближайшая доставка сегодня 17:00-19:00",
       "link": "https://petrushka.ru/redirect?partner=victoria"
     }
+  ]
+}
