@@ -55,57 +55,28 @@ Accept: application/json
 Овет
 
 {
-
   "stores": [
-  
     {
-    
       "id": 1,
-      
       "name": "METRO",
-      
       "delivery_info": "Ближайшая доставка сегодня 21:00-23:00",
-      
       "link": "https://petrushka.ru/redirect?partner=metro"
-      
     },
-    
     {
-    
       "id": 2,
-      
       "name": "Ашан",
-      
       "delivery_info": "Ближайшая доставка сегодня 18:00-20:00",
-      
       "link": "https://petrushka.ru/redirect?partner=ashan"
-      
     },
-    
     {
-    
       "id": 3,
-      
       "name": "ВкусВилл",
-      
       "delivery_info": "Быстрая доставка от 20 до 60 минут",
-      
       "link": "https://petrushka.ru/redirect?partner=vkusvill"
-      
     },
-    
     {
-    
       "id": 4,
-      
       "name": "ВИКТОРИЯ",
-      
       "delivery_info": "Ближайшая доставка сегодня 17:00-19:00",
-      
       "link": "https://petrushka.ru/redirect?partner=victoria"
-      
     }
-    
-  ]
-  
-}
